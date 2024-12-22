@@ -1,7 +1,8 @@
 #!/bin/bash
 
 # Mensaje inicial
-echo "Se van a abrir Telegram, WhatsApp, Signal, Thunderbird, y Proton Mail Web"
+echo "Se van a abrir Telegram, WhatsApp, Signal, Thunderbird, y Proton Mail Web" gmail web
+
 
 # Abre Telegram
 echo "Abriendo Telegram..."
@@ -21,10 +22,12 @@ flatpak run org.mozilla.Thunderbird & sleep 2
 
 # Abre Proton Mail Web
 echo "Abriendo ProtonMail Web..."
-xdg-open -n https://mail.proton.me/u/0 & sleep 2
+k
+# abre gmail.com
+echo "Abriendo https://www.gmail.com/laumorales474/o y sleep 2
 
 # Limpia la pantalla
 clear
 
 # Mensaje final
-echo "Se han abierto correctamente Telegram, WhatsApp, Signal, Thunderbird, y Proton Mail Web en el mismo orden."
+echo "Se han abierto correctamente Telegram, WhatsApp, Signal, Thunderbird,Proton Mail Web, y gmail wep en el mismo orden."
